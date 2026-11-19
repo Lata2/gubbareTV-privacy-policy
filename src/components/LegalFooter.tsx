@@ -11,12 +11,12 @@ export default function LegalFooter() {
               <span className="mark mark-img">
                 <Image
                   src="/assets/logo.png"
-                  alt="MaujiTV logo"
+                  alt="GubbareTV logo"
                   width={40}
                   height={40}
                 />
               </span>
-              MaujiTV
+              GubbareTV
             </div>
             <p>
               Your next favourite OTT destination — shows, movies and originals
@@ -64,7 +64,7 @@ export default function LegalFooter() {
           <div className="pwr">
             Powered by <b>Dharvix</b>
           </div>
-          <div className="copy">© 2026 MaujiTV. All rights reserved.</div>
+          <div className="copy">© 2026 GubbareTV. All rights reserved.</div>
         </div>
       </div>
     </footer>

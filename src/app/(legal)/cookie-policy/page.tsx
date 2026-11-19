@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Cookie Policy — MaujiTV",
-  description: "Learn how MaujiTV uses cookies and how to manage your preferences.",
+  title: "Cookie Policy — GubbareTV",
+  description: "Learn how GubbareTV uses cookies and how to manage your preferences.",
 };
 
 export default function CookiePolicyPage() {

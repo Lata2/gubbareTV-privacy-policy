@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Delete Your Account — MaujiTV',
+  title: 'Delete Your Account — GubbareTV',
   description:
-    'How to request deletion of your MaujiTV account and associated personal data.',
+    'How to request deletion of your GubbareTV account and associated personal data.',
 };
 
 export default function DeleteAccountPage() {

@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy — MaujiTV',
+  title: 'Privacy Policy — GubbareTV',
   description:
-    'Learn how MaujiTV collects, uses and protects your personal information.',
+    'Learn how GubbareTV collects, uses and protects your personal information.',
 };
 
 export default function PrivacyPage() {

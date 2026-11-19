@@ -16,13 +16,13 @@ export default function Home() {
             <span className="mark mark-img">
               <Image
                 src="/assets/logo.png"
-                alt="MaujiTV logo"
+                alt="GubbareTV logo"
                 width={32}
                 height={32}
                 priority
               />
             </span>
-            MaujiTV
+            GubbareTV
           </div>
           <span className="pill">OTT Streaming</span>
         </header>
@@ -44,7 +44,7 @@ export default function Home() {
             </h1>
 
             <p className="lead">
-              MaujiTV is an all-new <strong>OTT streaming platform</strong>{" — "}
+              GubbareTV is an all-new <strong>OTT streaming platform</strong>{" — "}
               shows, movies and originals built for binge. Watch on the big
               screen or in your pocket. We&apos;re putting the final touches on
               something worth the wait.
@@ -92,7 +92,7 @@ export default function Home() {
                   </div>
                   <div className="feature">
                     <div className="ftxt">
-                      <div className="tag">MaujiTV Original</div>
+                      <div className="tag">GubbareTV Original</div>
                       <div className="title">Midnight City</div>
                       <div className="btns">
                         <span className="play">Play</span>
@@ -133,7 +133,7 @@ export default function Home() {
                     </div>
                     <div className="feature">
                       <div className="ftxt">
-                        <div className="tag">MaujiTV Original</div>
+                        <div className="tag">GubbareTV Original</div>
                         <div className="title">Neon Nights</div>
                         <div className="btns">
                           <span className="play">Play</span>
@@ -187,12 +187,12 @@ export default function Home() {
               <span className="mark mark-img">
                 <Image
                   src="/assets/logo.png"
-                  alt="MaujiTV logo"
+                  alt="GubbareTV logo"
                   width={28}
                   height={28}
                 />
               </span>
-              MaujiTV
+              GubbareTV
             </div>
             <p className="tagline">
               Your everyday entertainment, anytime anywhere — on Android{' '}
@@ -233,7 +233,7 @@ export default function Home() {
         <div className="pwr">
           Powered by <b>Dharvix</b>
         </div>
-        <div className="copy">© 2026 MaujiTV. All rights reserved.</div>
+        <div className="copy">© 2026 GubbareTV. All rights reserved.</div>
       </footer>
     </div>
   );
